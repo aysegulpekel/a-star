@@ -17,6 +17,6 @@ More clicked cells (blue colored) place obstacles and user can control the board
 
 ### How to run?
 
-`mvn package -DskipTests`
+`mvn package`
 
 `java -jar target/a-star-1.0.jar`
